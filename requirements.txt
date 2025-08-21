@@ -1,0 +1,15 @@
+# ファイル名: requirements.txt
+
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+Pillow
+pygrabber
+ultralytics
+mediapipe
+omegaconf
+deepface
+scipy
